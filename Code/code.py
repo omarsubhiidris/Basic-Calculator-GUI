@@ -5,9 +5,9 @@ img = PhotoImage(file='F:\\ARK\\مشروع التخرج\\Calculator\\UI_assets_c
 root.iconphoto(False, img)
 #App title
 root.title('x')
-#App dimentions
+#App dimensions
 root.geometry("203x313")
-#Fixed dimentions app
+#Fixed dimensions app
 root.resizable(width=0, height=0)
 #App background
 root.configure(bg="#5E5D5D")
